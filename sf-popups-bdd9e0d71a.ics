@@ -7,18 +7,32 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:b5a12c544a0b1f13@sf-popups
-DTSTAMP:20261026T202147Z
-DTSTART:20261028T003000Z
-DTEND:20261028T013000Z
-SUMMARY:Catie Cuan // Physical AI: Giving AI a Robot Body
-DESCRIPTION:Brand activation at Jacobs Institute for Design Innovation.\nTy
- pe: Brand activation\nAccess: Open\nHosts: Design Field Notes\, Jacobs Ins
- titute for Design Innovation\, Berkeley MDes\nScore: 8.5/10\nhttps://luma.
- com/hsmpoyxa
-URL:https://luma.com/hsmpoyxa
+UID:174426d9724055d4@sf-popups
+DTSTAMP:20261027T195542Z
+DTSTART:20261028T020000Z
+DTEND:20261028T030000Z
+SUMMARY:[Gated] A Conversation with Tru Narla and Mori Liu | On Cyberdecks\
+ , Playful Interfaces\, and Expression
+DESCRIPTION:Print / zine at tiat.\nType: Print / zine\nAccess: Gated\nHosts
+ : tiat (the intersection of art & technology)\, Megan Gole\, Liz Dorman\, 
+ ash\, Krithi Nalla\nScore: 7.5/10\nhttps://luma.com/cyberdeckpanel
+URL:https://luma.com/cyberdeckpanel
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:Jacobs Institute for Design Innovation\, Berkeley\, California
+LOCATION:tiat\, San Francisco\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:61888ab4b5de366c@sf-popups
+DTSTAMP:20261027T195542Z
+DTSTART:20261029T000000Z
+DTEND:20261029T030000Z
+SUMMARY:PEOPLE NEED PLACES - User Experience Gallery Closing Party
+DESCRIPTION:Brand activation at 236 Powell St.\nType: Brand activation\nAcc
+ ess: Access unknown\nHosts: Mike Swartz\nScore: 8.0/10\nhttps://luma.com/w
+ s2scwlf
+URL:https://luma.com/ws2scwlf
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:236 Powell St\, San Francisco\, California
 END:VEVENT
 END:VCALENDAR
