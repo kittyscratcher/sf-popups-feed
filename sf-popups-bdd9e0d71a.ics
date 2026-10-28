@@ -7,23 +7,8 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:174426d9724055d4@sf-popups
-DTSTAMP:20261027T195542Z
-DTSTART:20261028T020000Z
-DTEND:20261028T030000Z
-SUMMARY:[Gated] A Conversation with Tru Narla and Mori Liu | On Cyberdecks\
- , Playful Interfaces\, and Expression
-DESCRIPTION:Print / zine at tiat.\nType: Print / zine\nAccess: Gated\nHosts
- : tiat (the intersection of art & technology)\, Megan Gole\, Liz Dorman\, 
- ash\, Krithi Nalla\nScore: 7.5/10\nhttps://luma.com/cyberdeckpanel
-URL:https://luma.com/cyberdeckpanel
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-LOCATION:tiat\, San Francisco\, California
-END:VEVENT
-BEGIN:VEVENT
 UID:61888ab4b5de366c@sf-popups
-DTSTAMP:20261027T195542Z
+DTSTAMP:20261028T200841Z
 DTSTART:20261029T000000Z
 DTEND:20261029T030000Z
 SUMMARY:PEOPLE NEED PLACES - User Experience Gallery Closing Party
