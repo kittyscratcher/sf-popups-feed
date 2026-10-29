@@ -7,17 +7,17 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:61888ab4b5de366c@sf-popups
-DTSTAMP:20261028T200841Z
-DTSTART:20261029T000000Z
-DTEND:20261029T030000Z
-SUMMARY:PEOPLE NEED PLACES - User Experience Gallery Closing Party
-DESCRIPTION:Brand activation at 236 Powell St.\nType: Brand activation\nAcc
- ess: Access unknown\nHosts: Mike Swartz\nScore: 8.0/10\nhttps://luma.com/w
- s2scwlf
-URL:https://luma.com/ws2scwlf
+UID:4bcfc7d51031f076@sf-popups
+DTSTAMP:20261029T200701Z
+DTSTART:20261031T000000Z
+DTEND:20261031T050000Z
+SUMMARY:[Gated] City Creatures: Evening Ticket
+DESCRIPTION:Print / zine at Terra Gallery & Event Venue.\nType: Print / zin
+ e\nAccess: Gated\nHosts: City Creatures\, Pestec IPM\nScore: 7.5/10\nhttps
+ ://luma.com/4zcbs4yk
+URL:https://luma.com/4zcbs4yk
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:236 Powell St\, San Francisco\, California
+LOCATION:Terra Gallery & Event Venue\, San Francisco\, California
 END:VEVENT
 END:VCALENDAR
