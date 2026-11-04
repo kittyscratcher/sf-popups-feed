@@ -7,39 +7,8 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:660eddad56c7d812@sf-popups
-DTSTAMP:20261103T205001Z
-DTSTART:20261104T013000Z
-DTEND:20261104T023000Z
-SUMMARY:Stefanie Hutka // What Your Machines Should Do: The Science and Str
- ategy of Human-Centered Automation
-DESCRIPTION:Brand activation at Jacobs Institute for Design Innovation.\nTy
- pe: Brand activation\nAccess: Open\nHosts: Design Field Notes\, Jacobs Ins
- titute for Design Innovation\, Berkeley MDes\nScore: 8.5/10\nhttps://luma.
- com/k0amr17h
-URL:https://luma.com/k0amr17h
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-LOCATION:Jacobs Institute for Design Innovation\, Berkeley\, California
-END:VEVENT
-BEGIN:VEVENT
-UID:958db8461eb9e6e7@sf-popups
-DTSTAMP:20261103T205001Z
-DTSTART:20261104T020000Z
-DTEND:20261104T043000Z
-SUMMARY:interface.CLUNK - a hands-on edition of interface.click
-DESCRIPTION:Brand activation at tiat.\nType: Brand activation\nAccess: Acce
- ss unknown\nHosts: tiat (the intersection of art & technology)\, Era ✴\,
-  ash\, Liz Dorman\, Eddie Jiao\, Alex Ollman\nScore: 8.0/10\nhttps://luma.
- com/tiat-whpg
-URL:https://luma.com/tiat-whpg
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-LOCATION:tiat\, San Francisco\, California
-END:VEVENT
-BEGIN:VEVENT
 UID:a5431b6db9b2f24b@sf-popups
-DTSTAMP:20261103T205001Z
+DTSTAMP:20261104T210645Z
 DTSTART:20261104T190000Z
 DTEND:20261104T200000Z
 SUMMARY:[Approval] Different by Design: Lessons from Building Lovable
