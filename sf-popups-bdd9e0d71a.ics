@@ -7,17 +7,45 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:a5431b6db9b2f24b@sf-popups
-DTSTAMP:20261104T210645Z
-DTSTART:20261104T190000Z
-DTEND:20261104T200000Z
-SUMMARY:[Approval] Different by Design: Lessons from Building Lovable
-DESCRIPTION:Brand activation at Stanford\, CA.\nType: Brand activation\nAcc
- ess: Approval needed\nHosts: Felix Haas\, Stepan Kivshyk\nScore: 6.5/10\nh
- ttps://luma.com/f2ggzehh
-URL:https://luma.com/f2ggzehh
+UID:bed570679fc9083f@sf-popups
+DTSTAMP:20261105T212343Z
+DTSTART:20261107T010000Z
+DTEND:20261107T050000Z
+SUMMARY:An Exclusive Burning Man Film Screening & Conversation with Award-W
+ inning social entrepreneur Sophia Swire
+DESCRIPTION:Brand activation at Shack15.\nType: Brand activation\nAccess: A
+ ccess unknown\nHosts: SHACK15\nScore: 8.0/10\nhttps://luma.com/l2hrr2zd
+URL:https://luma.com/l2hrr2zd
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:Stanford\, California
+LOCATION:Shack15\, San Francisco\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:a6452bca3e47c78c@sf-popups
+DTSTAMP:20261105T212343Z
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Qualcomm UNO Q Hack Night #3
+DESCRIPTION:Brand activation at Qualcomm.\nType: Brand activation\nAccess: 
+ Access unknown\nHosts: [SF] HackerSquad\, Qualcomm\, HackerSquad\, Aaishik
+ a\nScore: 7.0/10\nhttps://luma.com/unu-q-3-nov-6-26
+URL:https://luma.com/unu-q-3-nov-6-26
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Qualcomm\, Santa Clara\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:1aa8eb4002f27b7d@sf-popups
+DTSTAMP:20261105T212343Z
+DTSTART:20261107T020000Z
+DTEND:20261107T050000Z
+SUMMARY:“OUTSIDE - The Escape” Opening Reception
+DESCRIPTION:Brand activation at Oakland\, CA.\nType: Brand activation\nAcce
+ ss: Access unknown\nHosts: Tolani V\, Devonne Foxworth\nScore: 8.0/10\nhtt
+ ps://luma.com/kq0pyd51
+URL:https://luma.com/kq0pyd51
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Oakland\, California
 END:VEVENT
 END:VCALENDAR
