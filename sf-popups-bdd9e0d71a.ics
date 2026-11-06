@@ -7,22 +7,8 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:bed570679fc9083f@sf-popups
-DTSTAMP:20261105T212343Z
-DTSTART:20261107T010000Z
-DTEND:20261107T050000Z
-SUMMARY:An Exclusive Burning Man Film Screening & Conversation with Award-W
- inning social entrepreneur Sophia Swire
-DESCRIPTION:Brand activation at Shack15.\nType: Brand activation\nAccess: A
- ccess unknown\nHosts: SHACK15\nScore: 8.0/10\nhttps://luma.com/l2hrr2zd
-URL:https://luma.com/l2hrr2zd
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-LOCATION:Shack15\, San Francisco\, California
-END:VEVENT
-BEGIN:VEVENT
 UID:a6452bca3e47c78c@sf-popups
-DTSTAMP:20261105T212343Z
+DTSTAMP:20261106T204441Z
 DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:Qualcomm UNO Q Hack Night #3
@@ -36,7 +22,7 @@ LOCATION:Qualcomm\, Santa Clara\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:1aa8eb4002f27b7d@sf-popups
-DTSTAMP:20261105T212343Z
+DTSTAMP:20261106T204441Z
 DTSTART:20261107T020000Z
 DTEND:20261107T050000Z
 SUMMARY:“OUTSIDE - The Escape” Opening Reception
@@ -47,5 +33,33 @@ URL:https://luma.com/kq0pyd51
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 LOCATION:Oakland\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:d547d8b798f588c4@sf-popups
+DTSTAMP:20261106T204441Z
+DTSTART:20261107T170000Z
+DTEND:20261107T210000Z
+SUMMARY:The Golden Gate Half-Dozen
+DESCRIPTION:Brand activation at Lands End Lookout.\nType: Brand activation\
+ nAccess: Open\nHosts: Crosstober 2026\, SF Crosstown Trails\, Bob Siegel\n
+ Score: 7.5/10\nhttps://luma.com/ijitpbtb
+URL:https://luma.com/ijitpbtb
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Lands End Lookout\, San Francisco\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:82be31a203bf9d28@sf-popups
+DTSTAMP:20261106T204441Z
+DTSTART:20261108T223000Z
+DTEND:20261109T003000Z
+SUMMARY:[Approval] design x storytelling
+DESCRIPTION:Brand activation at San Francisco\, CA.\nType: Brand activation
+ \nAccess: Approval needed\nHosts: Mathurah Ravigulan\, Pauline Wee\, Chi Q
+ uach\, Jessie Kuo\nScore: 6.5/10\nhttps://luma.com/703bbpl8
+URL:https://luma.com/703bbpl8
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:San Francisco\, California
 END:VEVENT
 END:VCALENDAR
