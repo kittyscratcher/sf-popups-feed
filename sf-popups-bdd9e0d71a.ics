@@ -7,36 +7,8 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:a6452bca3e47c78c@sf-popups
-DTSTAMP:20261106T204441Z
-DTSTART:20261107T010000Z
-DTEND:20261107T040000Z
-SUMMARY:Qualcomm UNO Q Hack Night #3
-DESCRIPTION:Brand activation at Qualcomm.\nType: Brand activation\nAccess: 
- Access unknown\nHosts: [SF] HackerSquad\, Qualcomm\, HackerSquad\, Aaishik
- a\nScore: 7.0/10\nhttps://luma.com/unu-q-3-nov-6-26
-URL:https://luma.com/unu-q-3-nov-6-26
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-LOCATION:Qualcomm\, Santa Clara\, California
-END:VEVENT
-BEGIN:VEVENT
-UID:1aa8eb4002f27b7d@sf-popups
-DTSTAMP:20261106T204441Z
-DTSTART:20261107T020000Z
-DTEND:20261107T050000Z
-SUMMARY:“OUTSIDE - The Escape” Opening Reception
-DESCRIPTION:Brand activation at Oakland\, CA.\nType: Brand activation\nAcce
- ss: Access unknown\nHosts: Tolani V\, Devonne Foxworth\nScore: 8.0/10\nhtt
- ps://luma.com/kq0pyd51
-URL:https://luma.com/kq0pyd51
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-LOCATION:Oakland\, California
-END:VEVENT
-BEGIN:VEVENT
 UID:d547d8b798f588c4@sf-popups
-DTSTAMP:20261106T204441Z
+DTSTAMP:20261107T191716Z
 DTSTART:20261107T170000Z
 DTEND:20261107T210000Z
 SUMMARY:The Golden Gate Half-Dozen
@@ -50,7 +22,7 @@ LOCATION:Lands End Lookout\, San Francisco\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:82be31a203bf9d28@sf-popups
-DTSTAMP:20261106T204441Z
+DTSTAMP:20261107T191716Z
 DTSTART:20261108T223000Z
 DTEND:20261109T003000Z
 SUMMARY:[Approval] design x storytelling
