@@ -7,47 +7,17 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:1731a0cd7c6da204@sf-popups
-DTSTAMP:20261110T211414Z
-DTSTART:20261110T223000Z
-DTEND:20261111T023000Z
-SUMMARY:[Approval] Culture Slop Live!
+UID:06b6450308b21e85@sf-popups
+DTSTAMP:20261111T214756Z
+DTSTART:20261113T030000Z
+DTEND:20261113T060000Z
+SUMMARY:We Make Noise x MONO Opening Party and Fundraiser!
 DESCRIPTION:Brand activation at San Francisco\, CA.\nType: Brand activation
- \nAccess: Approval needed\nHosts: tiat (the intersection of art & technolo
- gy)\, ash\, Andrew McClintock\, Tina Yip\nScore: 6.5/10\nhttps://luma.com/
- culturesloplive
-URL:https://luma.com/culturesloplive
+ \nAccess: Access unknown\nHosts: WMN Global\nScore: 7.0/10\nhttps://luma.c
+ om/v77l4llj
+URL:https://luma.com/v77l4llj
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 LOCATION:San Francisco\, California
-END:VEVENT
-BEGIN:VEVENT
-UID:cddac5240bf53b19@sf-popups
-DTSTAMP:20261110T211414Z
-DTSTART:20261110T230000Z
-DTEND:20261111T023000Z
-SUMMARY:[Approval] Notion 101 for Small Businesses SF
-DESCRIPTION:Brand activation at San Francisco\, CA.\nType: Brand activation
- \nAccess: Approval needed\nHosts: Notion\, Richelle Stewart\nScore: 6.5/10
- \nhttps://luma.com/notion101-sf-nov
-URL:https://luma.com/notion101-sf-nov
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-LOCATION:San Francisco\, California
-END:VEVENT
-BEGIN:VEVENT
-UID:c9f8c32a935cdc42@sf-popups
-DTSTAMP:20261110T211414Z
-DTSTART:20261111T013000Z
-DTEND:20261111T023000Z
-SUMMARY:[Approval] Andrew Hogan // The New Rules of Design
-DESCRIPTION:Brand activation at Jacobs Institute for Design Innovation.\nTy
- pe: Brand activation\nAccess: Approval needed\nHosts: Design Field Notes\,
-  Jacobs Institute for Design Innovation\, Berkeley MDes\nScore: 6.5/10\nht
- tps://luma.com/vn0ymwdu
-URL:https://luma.com/vn0ymwdu
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-LOCATION:Jacobs Institute for Design Innovation\, Berkeley\, California
 END:VEVENT
 END:VCALENDAR
