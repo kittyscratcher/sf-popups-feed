@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:06b6450308b21e85@sf-popups
-DTSTAMP:20261111T214756Z
+DTSTAMP:20261112T214621Z
 DTSTART:20261113T030000Z
 DTEND:20261113T060000Z
 SUMMARY:We Make Noise x MONO Opening Party and Fundraiser!
@@ -19,5 +19,48 @@ URL:https://luma.com/v77l4llj
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 LOCATION:San Francisco\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:70a7d06db99fcaff@sf-popups
+DTSTAMP:20261112T214621Z
+DTSTART:20261114T020000Z
+DTEND:20261116T020000Z
+SUMMARY:California Dirt in San Francisco
+DESCRIPTION:Brand activation at 1288 15th Ave.\nType: Brand activation\nAcc
+ ess: Access unknown\nHosts: California Dirt Event Calendar\, California Di
+ rt\nScore: 8.0/10\nhttps://luma.com/dvcfs748
+URL:https://luma.com/dvcfs748
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:1288 15th Ave\, San Francisco\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:90eff0407792c657@sf-popups
+DTSTAMP:20261112T214621Z
+DTSTART:20261114T020000Z
+DTEND:20261114T033000Z
+SUMMARY:[Approval] Valksgiving\, a championship season celebration
+DESCRIPTION:Print / zine at Local Economy.\nType: Print / zine\nAccess: App
+ roval needed\nHosts: Local Economy\, Maya Goldberg-Safir (Rough Notes)\nSc
+ ore: 7.5/10\nhttps://luma.com/fb0ugfgg
+URL:https://luma.com/fb0ugfgg
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Local Economy\, Oakland\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:8b0f1f26a6d34b68@sf-popups
+DTSTAMP:20261112T214621Z
+DTSTART:20261114T023000Z
+DTEND:20261114T043000Z
+SUMMARY:Hardwired - A happy hour for people building physical things\, from
+  prototype to manufacturing
+DESCRIPTION:Brand activation at tiat.\nType: Brand activation\nAccess: Acce
+ ss unknown\nHosts: tiat (the intersection of art & technology)\, ash\, Era
+  ✴\, Liz Dorman\nScore: 7.0/10\nhttps://luma.com/hardwarehappy
+URL:https://luma.com/hardwarehappy
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:tiat\, San Francisco\, California
 END:VEVENT
 END:VCALENDAR
