@@ -7,22 +7,8 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:06b6450308b21e85@sf-popups
-DTSTAMP:20261112T214621Z
-DTSTART:20261113T030000Z
-DTEND:20261113T060000Z
-SUMMARY:We Make Noise x MONO Opening Party and Fundraiser!
-DESCRIPTION:Brand activation at San Francisco\, CA.\nType: Brand activation
- \nAccess: Access unknown\nHosts: WMN Global\nScore: 7.0/10\nhttps://luma.c
- om/v77l4llj
-URL:https://luma.com/v77l4llj
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-LOCATION:San Francisco\, California
-END:VEVENT
-BEGIN:VEVENT
 UID:70a7d06db99fcaff@sf-popups
-DTSTAMP:20261112T214621Z
+DTSTAMP:20261113T211725Z
 DTSTART:20261114T020000Z
 DTEND:20261116T020000Z
 SUMMARY:California Dirt in San Francisco
@@ -36,7 +22,7 @@ LOCATION:1288 15th Ave\, San Francisco\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:90eff0407792c657@sf-popups
-DTSTAMP:20261112T214621Z
+DTSTAMP:20261113T211725Z
 DTSTART:20261114T020000Z
 DTEND:20261114T033000Z
 SUMMARY:[Approval] Valksgiving\, a championship season celebration
@@ -50,7 +36,7 @@ LOCATION:Local Economy\, Oakland\, California
 END:VEVENT
 BEGIN:VEVENT
 UID:8b0f1f26a6d34b68@sf-popups
-DTSTAMP:20261112T214621Z
+DTSTAMP:20261113T211725Z
 DTSTART:20261114T023000Z
 DTEND:20261114T043000Z
 SUMMARY:Hardwired - A happy hour for people building physical things\, from
@@ -62,5 +48,18 @@ URL:https://luma.com/hardwarehappy
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 LOCATION:tiat\, San Francisco\, California
+END:VEVENT
+BEGIN:VEVENT
+UID:c701ed706ad2197f@sf-popups
+DTSTAMP:20261113T211725Z
+DTSTART:20261114T190000Z
+DTEND:20261115T000000Z
+SUMMARY:F&F Dogpatch 00
+DESCRIPTION:Brand activation at Pier 70.\nType: Brand activation\nAccess: O
+ pen\nHosts: F&F Flea\nScore: 8.5/10\nhttps://luma.com/7npv1i5b
+URL:https://luma.com/7npv1i5b
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Pier 70\, San Francisco\, California
 END:VEVENT
 END:VCALENDAR
