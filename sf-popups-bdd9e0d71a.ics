@@ -7,32 +7,32 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:2265fccc203992e3@sf-popups
-DTSTAMP:20261118T223011Z
-DTSTART:20261119T020000Z
-DTEND:20261119T050000Z
-SUMMARY:[E27] Market Makers
-DESCRIPTION:Brand activation at 428 Waller St.\nType: Brand activation\nAcc
- ess: Access unknown\nHosts: Landscape\nScore: 8.0/10\nhttps://luma.com/b5b
- w4wwm
-URL:https://luma.com/b5bw4wwm
+UID:4f6fc6e210601566@sf-popups
+DTSTAMP:20261119T223645Z
+DTSTART:20261120T030000Z
+DTEND:20261120T050000Z
+SUMMARY:[Approval] Gumloop x Linear Design Gallery
+DESCRIPTION:Brand activation at San Francisco\, CA.\nType: Brand activation
+ \nAccess: Approval needed\nHosts: Gumloop\, Gonzalo Soto\, Linear\nScore: 
+ 7.5/10\nhttps://luma.com/design-gallery
+URL:https://luma.com/design-gallery
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:428 Waller St\, San Francisco\, California
+LOCATION:San Francisco\, California
 END:VEVENT
 BEGIN:VEVENT
-UID:71fa1656c93bc832@sf-popups
-DTSTAMP:20261118T223011Z
-DTSTART:20261119T030000Z
-DTEND:20261119T050000Z
-SUMMARY:every thing computer | exhibition closing party
-DESCRIPTION:Brand activation at tiat.\nType: Brand activation\nAccess: Acce
- ss unknown\nHosts: tiat (the intersection of art & technology)\, Megan Gol
- e\, ash\, Liz Dorman\nScore: 8.0/10\nhttps://luma.com/everythingcomputercl
- osing
-URL:https://luma.com/everythingcomputerclosing
+UID:52a9aeafa70edc36@sf-popups
+DTSTAMP:20261119T223645Z
+DTSTART:20261120T230000Z
+DTEND:20261121T030000Z
+SUMMARY:NANDA Human-Agent fLow (HAL) Kickoff @ Google Mountain View
+DESCRIPTION:Brand activation at Mountain View\, CA.\nType: Brand activation
+ \nAccess: Access unknown\nHosts: NANDA: "Internet of AI Agents"\, Ramesh R
+ askar\, Vedh Krishnan\, Peter Danenberg\nScore: 7.0/10\nhttps://luma.com/p
+ 9kh8qpb
+URL:https://luma.com/p9kh8qpb
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:tiat\, San Francisco\, California
+LOCATION:Mountain View\, California
 END:VEVENT
 END:VCALENDAR
