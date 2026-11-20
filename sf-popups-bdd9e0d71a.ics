@@ -7,22 +7,8 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:4f6fc6e210601566@sf-popups
-DTSTAMP:20261119T223645Z
-DTSTART:20261120T030000Z
-DTEND:20261120T050000Z
-SUMMARY:[Approval] Gumloop x Linear Design Gallery
-DESCRIPTION:Brand activation at San Francisco\, CA.\nType: Brand activation
- \nAccess: Approval needed\nHosts: Gumloop\, Gonzalo Soto\, Linear\nScore: 
- 7.5/10\nhttps://luma.com/design-gallery
-URL:https://luma.com/design-gallery
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-LOCATION:San Francisco\, California
-END:VEVENT
-BEGIN:VEVENT
 UID:52a9aeafa70edc36@sf-popups
-DTSTAMP:20261119T223645Z
+DTSTAMP:20261120T221011Z
 DTSTART:20261120T230000Z
 DTEND:20261121T030000Z
 SUMMARY:NANDA Human-Agent fLow (HAL) Kickoff @ Google Mountain View
