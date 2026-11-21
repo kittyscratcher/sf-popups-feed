@@ -7,18 +7,16 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:52a9aeafa70edc36@sf-popups
-DTSTAMP:20261120T221011Z
-DTSTART:20261120T230000Z
-DTEND:20261121T030000Z
-SUMMARY:NANDA Human-Agent fLow (HAL) Kickoff @ Google Mountain View
-DESCRIPTION:Brand activation at Mountain View\, CA.\nType: Brand activation
- \nAccess: Access unknown\nHosts: NANDA: "Internet of AI Agents"\, Ramesh R
- askar\, Vedh Krishnan\, Peter Danenberg\nScore: 7.0/10\nhttps://luma.com/p
- 9kh8qpb
-URL:https://luma.com/p9kh8qpb
+UID:e6c4c322fac7818c@sf-popups
+DTSTAMP:20261121T204956Z
+DTSTART:20261122T003000Z
+DTEND:20261122T033000Z
+SUMMARY:Open Intelligence: A documentary premiere
+DESCRIPTION:Event at Gray Area / Grand Theater.\nType: Event\nAccess: Acces
+ s unknown\nHosts: Modal\nScore: 6.0/10\nhttps://luma.com/modal-hklc
+URL:https://luma.com/modal-hklc
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:Mountain View\, California
+LOCATION:Gray Area / Grand Theater\, San Francisco\, California
 END:VEVENT
 END:VCALENDAR
