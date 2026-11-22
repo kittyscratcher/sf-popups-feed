@@ -7,16 +7,18 @@ X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:e6c4c322fac7818c@sf-popups
-DTSTAMP:20261121T204956Z
-DTSTART:20261122T003000Z
-DTEND:20261122T033000Z
-SUMMARY:Open Intelligence: A documentary premiere
-DESCRIPTION:Event at Gray Area / Grand Theater.\nType: Event\nAccess: Acces
- s unknown\nHosts: Modal\nScore: 6.0/10\nhttps://luma.com/modal-hklc
-URL:https://luma.com/modal-hklc
+UID:caabe6dc57381a12@sf-popups
+DTSTAMP:20261122T205740Z
+DTSTART:20261125T010000Z
+DTEND:20261125T060000Z
+SUMMARY:[Approval] SF Non-Slop Hackathon | Pangram x Kino x Capy x Paper
+DESCRIPTION:Brand activation at San Francisco\, CA.\nType: Brand activation
+ \nAccess: Approval needed\nHosts: Pangram\, Pangram Labs\, Luke Igel\, Leo
+  R\, donald\, haris\, Harcourt Allen\, Olivia Zheng\, Afra\nScore: 6.5/10\
+ nhttps://luma.com/32d8mqid
+URL:https://luma.com/32d8mqid
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:Gray Area / Grand Theater\, San Francisco\, California
+LOCATION:San Francisco\, California
 END:VEVENT
 END:VCALENDAR
