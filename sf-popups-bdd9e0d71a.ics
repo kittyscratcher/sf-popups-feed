@@ -6,19 +6,4 @@ METHOD:PUBLISH
 X-WR-CALNAME:SF Popups
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
-BEGIN:VEVENT
-UID:caabe6dc57381a12@sf-popups
-DTSTAMP:20261124T234732Z
-DTSTART:20261125T010000Z
-DTEND:20261125T060000Z
-SUMMARY:[Approval] SF Non-Slop Hackathon | Pangram x Kino x Capy x Paper
-DESCRIPTION:Brand activation at San Francisco\, CA.\nType: Brand activation
- \nAccess: Approval needed\nHosts: Pangram\, Pangram Labs\, Luke Igel\, Leo
-  R\, donald\, haris\, Harcourt Allen\, Olivia Zheng\, Afra\nScore: 6.5/10\
- nhttps://luma.com/32d8mqid
-URL:https://luma.com/32d8mqid
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-LOCATION:San Francisco\, California
-END:VEVENT
 END:VCALENDAR
